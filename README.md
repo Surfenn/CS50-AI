@@ -1,5 +1,3 @@
-Here is your text properly formatted in Markdown — you can paste this straight into your README.md:
-
 # CS50 AI — Harvard University  
 
 **Student:** Luca Wang  
