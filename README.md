@@ -1,12 +1,11 @@
 # CS50 AI — Harvard University  
 
-**Student:** Luca Wang  
+**Student:** Luca Wang
 **Course:** CS50 AI — Harvard University  
 **Year/Grade:** 2026, Grade 12  
 **School:** Crestwood Prep  
 
 ---
-
 ## Course Overview  
 
 CS50’s Introduction to Artificial Intelligence with Python explores the concepts and algorithms at the foundation of modern artificial intelligence. The course emphasizes both theory and practical implementation using Python.  
@@ -24,7 +23,6 @@ CS50’s Introduction to Artificial Intelligence with Python explores the concep
 This repository contains my problem sets, projects, and notes from the course.  
 
 ---
-
 ## Tools & Technologies  
 
 This course primarily uses:  
@@ -37,7 +35,6 @@ This course primarily uses:
 - **VS Code + Jupyter Notebooks**  
 
 ---
-
 ## What I Learned  
 
 Through this course, I developed skills in:  
@@ -50,7 +47,6 @@ Through this course, I developed skills in:
 - Applying AI techniques to real-world problems  
 
 ---
-
 ## Contact  
 
 - **Email:** Luca.Wang@crestwood.on.ca  
